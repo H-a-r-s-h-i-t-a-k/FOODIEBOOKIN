@@ -32,7 +32,7 @@ class PyscreenState extends State<Pyscreen> {
 
   void _handlePaymentError(PaymentFailureResponse response) {
     // Do something when payment fails
-    print("Payment Fail");
+    print("...Payment Fail");
   }
 
   void _handleExternalWallet(ExternalWalletResponse response) {
