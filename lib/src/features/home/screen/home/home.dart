@@ -27,7 +27,7 @@ class HomeScreen extends StatelessWidget {
                 .map((category) => ImagCategory(category: category))
                 .toList(),
           )),
-          NamingOfProduct(name: "Momos..."),
+          NamingOfProduct(name: "Momos."),
           // ProductOne(product: Product.products[0]),
           ProductCarousel(products: Product.products),
 
