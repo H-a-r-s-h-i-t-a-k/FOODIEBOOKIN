@@ -34,13 +34,13 @@ import 'src/features/cart/controlers/blocs/cart_event.dart';
 
 //   stops: [0.0, 0.7, 1.0],
 // );
-final ColorScheme lColorScheme = ColorScheme.fromSwatch(
-    primarySwatch: Colors.blue, brightness: Brightness.light);
-final ColorScheme dColorScheme = ColorScheme.fromSwatch(
-    primarySwatch: Colors.amber, brightness: Brightness.dark);
-void main() {
-  runApp(const FoodApp());
-}
+// final ColorScheme lColorScheme = ColorScheme.fromSwatch(
+//     primarySwatch: Colors.blue, brightness: Brightness.light);
+// final ColorScheme dColorScheme = ColorScheme.fromSwatch(
+//     primarySwatch: Colors.amber, brightness: Brightness.dark);
+// void main() {
+//   runApp(const FoodApp());
+// }
 
 class FoodApp extends StatelessWidget {
   const FoodApp({super.key});
