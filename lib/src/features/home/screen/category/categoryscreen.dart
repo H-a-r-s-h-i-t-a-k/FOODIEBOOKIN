@@ -1,10 +1,10 @@
-import 'package:demo/src/features/home/screen/Product/model/productmodel.dart';
-import 'package:demo/src/features/home/screen/home/widget/productOne.dart';
-import 'package:flutter/foundation.dart';
-import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
+// import 'package:demo/src/features/home/screen/Product/model/productmodel.dart';
+// import 'package:demo/src/features/home/screen/home/widget/productOne.dart';
+// import 'package:flutter/foundation.dart';
+// import 'package:flutter/material.dart';
+// import 'package:flutter/widgets.dart';
 
-import '../../../../constants/colors.dart';
+// import '../../../../constants/colors.dart';
 
 class CatalogScreen extends StatelessWidget {
   final String category;
