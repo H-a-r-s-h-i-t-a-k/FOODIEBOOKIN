@@ -11,4 +11,4 @@ const mCardBgColor = Color.fromARGB(255, 241, 247, 247);
 //---on Boarding Colors
 const mOnBoardingPage1Color = Colors.white;
 const mOnBoardingPage2Color = Color.fromARGB(255, 249, 188, 245);
-const mOnBoardingPage3Color = Color(0xffffdcbd);
+const mOnBoardingPage3Color = Color.fromARGB(255, 184, 130, 83);
