@@ -1,9 +1,9 @@
-import 'package:carousel_slider/carousel_slider.dart';
-import 'package:demo/src/features/home/screen/Product/model/productmodel.dart';
-import 'package:demo/src/features/home/screen/category/model/hcategory.dart';
-import 'package:demo/src/features/home/screen/home/widget/nameOfproduct.dart';
-import 'package:demo/src/features/home/screen/home/widget/productCarousel.dart';
-import 'package:flutter/material.dart';
+// import 'package:carousel_slider/carousel_slider.dart';
+// import 'package:demo/src/features/home/screen/Product/model/productmodel.dart';
+// import 'package:demo/src/features/home/screen/category/model/hcategory.dart';
+// import 'package:demo/src/features/home/screen/home/widget/nameOfproduct.dart';
+// import 'package:demo/src/features/home/screen/home/widget/productCarousel.dart';
+// import 'package:flutter/material.dart';
 
 import 'widget/categ.dart';
 
