@@ -16,11 +16,7 @@ class CartLoading extends CartState {
 }
 
 class CartLoaded extends CartState {
-  // CartLoaded(this.cartItems) : super(cartItems);
-  // @override
-  // // Cart cart = Cart(products:const );
-  // List<Object> get props => [cartItems];
-
+ 
   final Cart cart;
 
   CartLoaded(this.cart);
