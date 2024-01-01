@@ -1,7 +1,7 @@
-import 'package:demo/src/constants/colors.dart';
-import 'package:flutter/cupertino.dart';
-import 'package:flutter/material.dart';
-import 'package:razorpay_flutter/razorpay_flutter.dart';
+// import 'package:demo/src/constants/colors.dart';
+// import 'package:flutter/cupertino.dart';
+// import 'package:flutter/material.dart';
+// import 'package:razorpay_flutter/razorpay_flutter.dart';
 
 class Pyscreen extends StatefulWidget {
   final int amount;
