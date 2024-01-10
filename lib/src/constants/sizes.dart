@@ -1,4 +1,4 @@
-const mDefaultSize = 33.0;
+const mDefaultSize = 30.0;
 const mSplashContainerSize = 30.0;
 const mButtonHeight = 16.0;
 const mformHeight = 10.0;
