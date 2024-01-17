@@ -2,7 +2,7 @@ import 'package:demo/firebase_options.dart';
 import 'package:demo/src/features/auth/screens/splash/splash.dart';
 import 'package:demo/src/features/cart/controlers/blocs/cart_bloc.dart';
 import 'package:demo/src/features/home/screen/home/Bottom.dart';
-// import 'package:demo/src/repository/auth_repo/authentication_repo.dart';
+import 'package:demo/src/repository/auth_repo/authentication_repo.dart';
 import 'package:demo/src/utils/theme/theme.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
