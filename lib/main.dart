@@ -39,6 +39,14 @@ final ColorScheme lColorScheme = ColorScheme.fromSwatch(
 final ColorScheme dColorScheme = ColorScheme.fromSwatch(
     primarySwatch: Colors.amber, brightness: Brightness.dark);
 void main() {
+  // WidgetsFlutterBinding.ensureInitialized();
+
+  // Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform).then(
+  //   (value) => Get.put(
+  //     AuthenticationRepo(),
+  //   ),
+  // );
+    
   runApp(const FoodApp());
 }
 
