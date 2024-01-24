@@ -11,7 +11,7 @@ import 'package:get/get.dart';
 import 'package:get/route_manager.dart';
 
 import 'src/features/cart/controlers/blocs/cart_event.dart';
-// ....... .
+// ....
 // Gradient lgradiant = RadialGradient(
 //   radius: 3.0,
 //   // focalRadius: 4.0,
