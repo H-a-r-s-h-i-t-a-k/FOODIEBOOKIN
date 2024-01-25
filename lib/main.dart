@@ -9,7 +9,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:get/get.dart';
 import 'package:get/route_manager.dart';
-......
+.....
 import 'src/features/cart/controlers/blocs/cart_event.dart';
 
 // Gradient lgradiant = RadialGradient(
