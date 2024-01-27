@@ -9,7 +9,6 @@ import 'package:google_fonts/google_fonts.dart';
 class Apptheme {
   Apptheme._();
   static ThemeData darktheme = ThemeData.dark().copyWith(
-    useMaterial3: true,
     brightness: Brightness.dark,
     colorScheme: dColorScheme,
     cardTheme: CardTheme().copyWith(
