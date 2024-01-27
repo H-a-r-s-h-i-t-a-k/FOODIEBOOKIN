@@ -67,7 +67,7 @@ class CustomtextFeild extends StatelessWidget {
     );
   }
 
-///////
+//
   String? validation(val) {
     if (val == null || val.isEmpty) {
       return 'Enter your $text ';
