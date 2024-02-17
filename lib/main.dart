@@ -1,4 +1,4 @@
-drimport 'package:demo/firebase_options.dart';
+import 'package:demo/firebase_options.dart';
 import 'package:demo/src/features/auth/screens/splash/splash.dart';
 import 'package:demo/src/features/cart/controlers/blocs/cart_bloc.dart';
 import 'package:demo/src/features/home/screen/home/Bottom.dart';
