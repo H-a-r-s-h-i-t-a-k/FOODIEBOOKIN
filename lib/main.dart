@@ -29,7 +29,7 @@ import 'src/features/cart/controlers/blocs/cart_event.dart';
 //     Color.fromARGB(255, 191, 188, 188),
 //     Color.fromARGB(157, 0, 0, 0),
 //   ],
-//////
+/
 //   stops: [0.0, 0.7, 1.0],
 // );
 final ColorScheme lColorScheme = ColorScheme.fromSwatch(
