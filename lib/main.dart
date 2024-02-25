@@ -40,6 +40,7 @@ final ColorScheme dColorScheme = ColorScheme.fromSwatch(
     primarySwatch: Colors.amber, brightness: Brightness.dark);
 void main() {
   runApp(const FoodApp());
+  // This widget is the root of your application.
 }
 
 class FoodApp extends StatelessWidget {
@@ -57,8 +58,9 @@ class FoodApp extends StatelessWidget {
         darkTheme: Apptheme.darktheme,
         themeMode: ThemeMode.system,
         transitionDuration: const Duration(milliseconds: 500),
-        home: BottomScreen(),
-        // CircularProgressIndicator(),
+        home:
+            //  BottomScreen(),
+            CircularProgressIndicator(),
       ),
     );
   }
