@@ -39,12 +39,12 @@ final ColorScheme lColorScheme = ColorScheme.fromSwatch(
 final ColorScheme dColorScheme = ColorScheme.fromSwatch(
     primarySwatch: Colors.amber, brightness: Brightness.dark);
 void main() {
-  runApp(const FoodApp());
+  runApp(const JewelEase());
   // This widget is the root of your application.
 }
 
-class FoodApp extends StatelessWidget {
-  const FoodApp({super.key});
+class JewelEase extends StatelessWidget {
+  const JewelEase({super.key});
 
   // This widget is the root of your application.
   @override
@@ -52,15 +52,14 @@ class FoodApp extends StatelessWidget {
     return BlocProvider(
       create: (context) => CartBloc()..add(CartStarted()),
       child: GetMaterialApp(
-        title: "Row Chinese",
+        title: "Sparkle with Elegance, Rent with Ease",
         debugShowCheckedModeBanner: false,
         theme: Apptheme.lighttheme,
         darkTheme: Apptheme.darktheme,
         themeMode: ThemeMode.system,
         transitionDuration: const Duration(milliseconds: 500),
-        home:
-            //  BottomScreen(),
-            CircularProgressIndicator(),
+        home: BottomScreen(),
+        // CircularProgressIndicator(),
       ),
     );
   }
