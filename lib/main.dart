@@ -39,12 +39,13 @@ final ColorScheme lColorScheme = ColorScheme.fromSwatch(
 final ColorScheme dColorScheme = ColorScheme.fromSwatch(
     primarySwatch: Colors.amber, brightness: Brightness.dark);
 void main() {
-  runApp(const JewelEase());
+
+ runApp(const FoodApp());
   // This widget is the root of your application.
 }
 
-class JewelEase extends StatelessWidget {
-  const JewelEase({super.key});
+class FoodApp extends StatelessWidget {
+
 
   // This widget is the root of your application.
   @override
