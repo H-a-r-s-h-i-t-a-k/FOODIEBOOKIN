@@ -45,7 +45,7 @@ void main() {
 }
 
 class FoodApp extends StatelessWidget {
-
+  const FoodApp({super.key});
 
   // This widget is the root of your application.
   @override
