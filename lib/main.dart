@@ -52,8 +52,7 @@ class FoodApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return BlocProvider(
       create: (context) => CartBloc()..add(CartStarted()),
-      child: GetMaterialApp(
-        title: "Sparkle with Elegance, Rent with Ease",
+      child: GetMaterialApp(   title: "Row Chinese",
         debugShowCheckedModeBanner: false,
         theme: Apptheme.lighttheme,
         darkTheme: Apptheme.darktheme,
