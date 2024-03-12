@@ -1,15 +1,15 @@
 import 'dart:core';
 
 import 'package:flutter/material.dart';
+const String mAppName = "FoodieBookin";
+const String mAppTagline = "Esat and West this Dish is The best. ";
 
-const String mAppName = "JewelEase";
-const String mAppTagline = "Your Ultimate Jewelry Rental App ";
+const String mLoginPagetitle = " FoodieBookin";
+const String mLoginSubPagetitle = "Savor the Best of Chinese Cuisine";
 
-const String mLoginPagetitle = " JewelEase";
-const String mLoginSubPagetitle = "Sparkle with Elegance, Rent with Ease!";
-
-const String mSignUpPagetitle = " JewelEase";
-const String mSignUPSubPagetitle = "Access Your Exquisite Collection";
+const String mWelcomeTitle = "Delisious FoodieBookin ";
+const String mWelcomeSubTitle =
+    " Let's Savor Authentic Chinese Flavors with Every Bite: Your Ultimate Food Adventure!";
 
 const String mWelcomeTitle = " Welcome to JewelEase";
 const String mWelcomeSubTitle = "Where Luxury Meets Convenience";
@@ -18,7 +18,8 @@ const String mEmail = "E-Mail", mPhoneNo = "Phone Number";
 const String mPassword = "Password";
 
 const String mforgotpassTitle = "Forgot  password ";
-const String mforgotpassSubTitle = "Reclaim Your Access to Luxury";
+const String mforgotpassSubTitle =
+    " Let's Savor Authentic Chinese Flavors with Every Bite: Your Ultimate Food Adventure!";
 const String mResetemail = "Reset via Mail Verification";
 const String mResetphone = "Reset via Phone no Verification";
 const String mnext = "next";
