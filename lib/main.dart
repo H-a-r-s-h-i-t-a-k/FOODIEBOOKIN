@@ -18,6 +18,9 @@ import 'src/features/cart/controlers/blocs/cart_event.dart';
 //     Color.fromARGB(255, 6, 230, 246),
 //     Color.fromARGB(255, 0, 0, 0)
 //   ],
+
+
+
 //   stops: [0.0, 0.4, 1.0],
 // );
 // Gradient dgradiant = RadialGradient(
