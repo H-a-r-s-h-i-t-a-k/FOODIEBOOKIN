@@ -31,7 +31,7 @@ import 'src/features/cart/controlers/blocs/cart_event.dart';
 //     Color.fromARGB(157, 0, 0, 0),
 //   ],
 
-//   stops: [0.0, 0.7, 1.0],
+// //  stops: [0.0, 0.7, 1.0],
 // );
 final ColorScheme lColorScheme = ColorScheme.fromSwatch(
     primarySwatch: Colors.blue, brightness: Brightness.light);
